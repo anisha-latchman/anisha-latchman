@@ -1,5 +1,5 @@
 # Hi, I’m Anisha Latchman!
-### Full-Stack Software Engineer Co-Op @ [Freshbooks](https://www.freshbooks.com/en-ca/)
+### Full-Stack Software Engineer Co-Op @Freshbooks
 
 More about me:
 - 🏙️ Third year Computer Science & Cognitive Science @ University of Toronto
