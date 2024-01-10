@@ -2,8 +2,11 @@
 Full-Stack Software Engineer Co-Op @ [Freshbooks](https://www.freshbooks.com/en-ca/)
 
 More about me:
+
 🏙️ Third year Computer Science & Cognitive Science @ University of Toronto
+
 😍 Interested in front-end development and admires good user experience design
+
 📸 Loves capturing memories
 
 <!---
